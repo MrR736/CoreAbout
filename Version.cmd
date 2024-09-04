@@ -28,4 +28,3 @@ echo:
 
 echo CoreUpdates
 echo Version %VERSION-CU%
-echo:
