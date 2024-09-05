@@ -1,6 +1,6 @@
 @echo off
 set VERSION-CP=0.0.0.0.3
-set VERSION-CC=0.0.0.0.3
+set VERSION-CC=0.0.0.0.4
 set VERSION-CCo=0.0.0.0.3
 set VERSION-CSe=0.0.0.0.4
 set VERSION-CSo=0.0.0.0.2
