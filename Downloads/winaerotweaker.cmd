@@ -1,2 +1,2 @@
 @echo off
-wget https://winaerotweaker.com/download/winaerotweaker.zip
+wget -q -O winaerotweaker.zip https://winaerotweaker.com/download/winaerotweaker.zip
