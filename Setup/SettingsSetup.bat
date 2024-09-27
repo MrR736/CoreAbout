@@ -1,5 +1,6 @@
 @echo off
-timeout /t 1 /nobreak > NUL
+cd /d %~dp0
+timeout /t 3 /nobreak > NUL
 setlocal enabledelayedexpansion
 set /p InstallPath=<InstallPath
 set "InstallPath=!InstallPath:0 =!"
