@@ -4,6 +4,7 @@ timeout /t 3 /nobreak > NUL
 setlocal enabledelayedexpansion
 set /p InstallPath=<InstallPath
 set "InstallPath=!InstallPath:\/ =!"
+del /q ".\Settings\CoreSettingsPath"
 del /q ".\Settings\PathData"
 del /q ".\Settings\PathColorData"
 del /q ".\Settings\Gui\PathData"
