@@ -6,7 +6,7 @@ set VERSION-CSe=0.0.0.0.6
 set VERSION-CSo=0.0.0.0.4
 set VERSION-CU=0.0.0.0.7
 
-echo Core Prompt
+echo Core Panel
 echo Version %VERSION-CP%
 echo:
 
