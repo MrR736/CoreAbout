@@ -22,7 +22,7 @@ echo CoreSettings
 echo Version %VERSION-CSe%
 echo:
 
-echo CoreSotfwares
+echo CoreSoftwares
 echo Version %VERSION-CSo%
 echo:
 
